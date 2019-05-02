@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "get started"
+title:  "第一篇博文"
 date:   2019-05-02 09:42:09 +0800
 categories: blog
 ---
